@@ -1,30 +1,32 @@
-# FABtransitions
+# FABtransitions 
 Android Library to create Floating Action Button Animations. 
 Check Google's [FAB documentation](http://www.google.com/design/spec/components/buttons-floating-action-button.html#buttons-floating-action-button-transitions) for further info.
 
-![alt tag](https://github.com/Adirockzz95/FABtransitions/blob/master/demo (1).gif)
+![](https://github.com/Adirockzz95/FABtransitions/blob/master/demo%20(1).gif)
 
 [YouTube video](https://www.youtube.com/watch?v=ycVOPEdlCVw)
 
-#Setup:
-* This library has dependencies on ozodrukh's [CircularReveal](https://github.com/ozodrukh/CircularReveal) and 
-  asyl's [ArcArnimator](https://github.com/asyl/ArcAnimator).
-* Add fabtransition folder into your project as a dependency.
-* Add CircularReveal in fabtransition's gradle file as project dependency.
+## Requirements
+* The Library requires Android SDK version 14 (ICS) and higher.
+    
 
-**sample**
-[apk](https://github.com/Adirockzz95/FABtransitions/blob/master/test.letstest.apk)
+## Setup:
+* Add [AAR](https://github.com/Adirockzz95/FABtransitions/blob/master/sample%20app/fabtransition/fabtransition.aar) into your project as a dependency.
+* Add NineOldAndroids as a dependency
 
-#Usage
-* [Toolbar animation](https://github.com/Adirockzz95/FABtransitions/blob/master/ToolbarGuide.md)
-* [material sheet animation](https://github.com/Adirockzz95/FABtransitions/blob/master/materialsheetDemo.md);
+      
 
-##Thanks
+## Usage (Updated)
+* [Toolbar animation](https://github.com/Adirockzz95/FABtransitions/blob/master/ToolbarGuide.md)  
+
+* [material sheet animation](https://github.com/Adirockzz95/FABtransitions/blob/master/materialsheetDemo.md)
+
+
+
+## Thanks
 [ozodrukh](https://github.com/ozodrukh) for his [CircularReveal](https://github.com/ozodrukh/CircularReveal) library.
 
-[asyl](https://github.com/asyl) for his [ArcAnimator](https://github.com/asyl/ArcAnimator);
-
-####MinSDK support: 14
+[asyl](https://github.com/asyl) for his [ArcAnimator](https://github.com/asyl/ArcAnimator)
 
 LICENSE:
 ```
